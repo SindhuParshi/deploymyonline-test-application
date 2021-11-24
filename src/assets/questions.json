@@ -1,0 +1,189 @@
+{
+    "questions": [{
+            "questionText": "Which of the following does TypeScript use to specify types?",
+            "options": [{
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ";"
+                },
+                {
+                    "text": "!"
+                },
+                {
+                    "text": "&"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Which of the following is NOT a type used in TypeScript?",
+            "options": [{
+                    "text": "number"
+                },
+                {
+                    "text": "string"
+                },
+                {
+                    "text": "boolean"
+                },
+                {
+                    "text": "enum",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "What are the variable scopes available in TypeScript?",
+            "options": [{
+                    "text": "Global Scope"
+                },
+                {
+                    "text": "Class Scope"
+                    
+                },
+                {
+                    "text": " Local Scope"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": "All of the above is correct"
+        },
+        {
+            "questionText": "How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text": "@number"
+                },
+                {
+                    "text": "number[]",
+                    "correct": true
+                },
+                {
+                    "text": "number!"
+                },
+                {
+                    "text": "number?"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "In which of these does a class take parameters?",
+            "options": [{
+                    "text": "constructor",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Which file is responsible for startup of anugular project?",
+            "options": [{
+                    "text": "main.ts",
+                    "correct": true
+                },
+                {
+                    "text": "index.js"
+                },
+                {
+                    "text": "app.ts"
+                },
+                {
+                    "text": "angular.cli.json"
+                    
+                }
+            ],
+            "explanation": "main.ts file is responsible for startup of angular project"
+        },
+        {
+            "questionText": "what is the decorator used for configuring your module class?",
+            "options": [{
+                    "text": "@NgApp"
+                },
+                {
+                    "text": "@NgModule",
+                    "correct": true
+                },
+                {
+                    "text": "@NgAngular"
+                },
+                {
+                    "text": "@NgConfigure"
+                }
+            ],
+            "explanation": "@NgModule decorator is used for configuring your module class."
+        }, 
+        {
+            "questionText": "Interpolation in angular is done using?",
+            "options": [{
+                    "text": "{{}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{|var}}"
+                },
+                {
+                    "text": "{{{}}}"
+                },
+                {
+                    "text": "!!!!"
+                }
+            ],
+            "explanation": "Interpolation in angular is done using {{}}"
+        },
+        {
+            "questionText": "Which elements are mandatory in an XHTML document?",
+            "options": [{
+                    "text": "doctype,html,head and body"
+                    
+                },
+                {
+                    "text": "doctype,html and body"
+                },
+                {
+                    "text": "None of these"
+                },
+                {
+                    "text": "doctype,html,head,body and title",
+                    "correct": true
+                }
+            ],
+            "explanation": "doctype,html,head,body and title are mandatory in XHTML document"
+        },
+        {
+            "questionText": "Which of the following statement is correct for AngularJS?",
+            "options": [{
+                    "text": "AngularJS is an HTML framework"
+                    
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                },
+                {
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                }
+            ],
+            "explanation": "AngularJS is a JavaScript framework"
+        }
+    ]
+}
+
+
